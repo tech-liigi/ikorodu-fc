@@ -302,5 +302,4 @@ const nav = defineType({
     }),
   ],
 });
-
 export default nav;
